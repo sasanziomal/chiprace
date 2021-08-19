@@ -1,0 +1,9 @@
+.rabat {
+ font-size: 15px;
+ font-weight: bold;
+ display: inline;
+ border: 2px solid red;
+ border-radius: 10px;
+ padding: 5px;
+}
+
